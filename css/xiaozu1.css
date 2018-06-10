@@ -1,0 +1,343 @@
+*{
+	padding: 0;
+	margin:0;
+}
+ul,li,ol{
+			list-style: none;
+		}
+       a{
+			text-decoration: none;
+		}
+		.one{
+			height: 173px;
+			background: #f3f3f3;
+		}
+		.logo{
+			height: 95px;
+			text-align: center;
+			padding-top: 30px;
+		}
+		.one1{
+			border-radius: 23px;
+			margin:0 auto;
+			background: #ffffff; 
+			height: 45px;
+			width: 670px;
+		}
+		.one1 li{
+			float:left;
+			height: 45px;
+			padding: 0 30px;
+			line-height: 45px;
+			background: url(../kdemo/20.png) no-repeat right center;
+		}
+		.one1 li a{
+			border-bottom: 3px solid #1e50ae;
+		    height: 42px;
+		    
+		}
+		.one1 li:last-child{
+		background: none;
+		}	
+		.two{
+			height: 408px;
+			text-align: center;
+			background-image: url(../kdemo/2.png);
+
+		}
+		.two1{
+			padding-top: 87px;
+		}
+		.three{
+			background: #ffffff;
+			height: 810px;
+		}
+		.three1{
+			font-size: 34px;
+			font-style:' 微软雅黑';
+			padding-top: 60px;
+			text-align: center;
+		}
+		.three2{
+			font-size: 30px;
+			margin-top: 24px;
+			text-align: center;
+		}
+		.three3{
+			height: 366px;
+			width: 150px;
+			margin-left: 245px;
+			margin-top: 60px;
+			float: left;
+		}
+		.three4{
+			font-size: 16px;
+			font-family: 微软雅黑;
+			text-align: center;
+		}
+		.three5{
+			padding-left: 40px;
+			font-size: 14px;
+			font-family: 微软雅黑;
+		}
+		.li1{
+			list-style-image: url(../kdemo/25.png);
+			list-style-position : inside;
+		}
+		.three6{
+			float: left;
+			height: 366px;
+			width: 150px;
+			margin-left: 157px;
+			margin-top: 60px;
+		}
+		.three7{
+			height: 366px;
+			width: 150px;
+			margin-left: 245px;
+			float: left;
+
+		}
+        .three8{
+        	text-align: center;
+			float: left;
+			height: 366px;
+			width: 150px;
+			margin-left: 157px;
+		}
+		.four{
+			background-image: url(../kdemo/11.png);
+			height: 712px;
+			text-align: center;
+		}
+		.four1{
+			height: 215px;
+			width: 140px;
+			margin-left: 715px;
+		}
+		.four4{
+			font-size: 34px;
+			font-style:' 微软雅黑';
+			margin-top: 60px;
+			text-align: center;
+			padding-top: 65px;
+		}
+		.four2{
+			padding-top: 25px;
+			font-size: 25px;
+		}
+		.four3{
+			margin-left: 170px;
+			height: 295px;
+			width: 1200px;
+			text-align: center;
+			float: left;
+		}
+		.four5{
+			float: left;
+			margin-top: 130px;
+			margin-right: 35px;
+		}
+		.four6{
+			float: left;
+			margin-right: 48px;
+		}
+		.four7{
+			float: left;
+			margin-top: 130px;
+			margin-right:0;
+		}
+		.four8{
+			border: 1px solid white;
+			height: 55px;
+			width: 235px;
+			border-radius: 26px;
+			margin-top: 380px;
+			margin-left: 662px;
+			text-align: center;
+		}
+		.four9{
+			padding-top: 15px;
+			font-size: 20px;
+			font-family:' 微软雅黑';
+		}
+		.five{
+			height: 905px;
+		}
+		.five1{
+			padding-top: 57px;
+			font-size: 34px;
+			font-style:' 微软雅黑';
+			text-align: center;
+		}
+		.five2{
+			margin-top: 22px;
+			font-size: 20px	;
+			text-align: center;
+		}
+		.five3{
+			float: left;
+			margin-left: 240px;
+		}
+		.five4{
+			height: 320px;
+			width: 510px;
+			margin-left: 80px;
+			margin-top: 80px;
+			float: left;
+		}
+		.five5{
+			font-size: 22px;
+			font-family: '微软雅黑';
+		}
+		.five6{
+			margin-top: 45px;
+			font-size: 14px;
+			font-family: '微软雅黑'；
+		}
+		.five7{
+			border: 2px solid #a2b4db;
+			height: 30px;
+			width: 140px;
+			margin-top: 32px;
+			text-align: center;
+			padding-top: 11px;
+			border-radius: 20px;
+		}
+		.five8{
+			height: 320px;
+			width: 510px;
+			margin-top: 70px;
+			margin-left: 250px;
+			float: left;
+		}
+		.five9{
+			font-size: 14px;
+			font-family: '微软雅黑';
+			line-height: 40px;
+		}
+		.five10{
+			height: 320px;
+			width: 510px;
+			margin-top: 70px;
+			margin-left: 45px;
+			float: left;
+		}
+		.six{
+			height: 100px;
+			background: #f5f5f5;
+		}
+		.six1{
+			width: 1120px;
+			height: 100px;
+			margin-left: 230px;
+		}
+		.six2{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: left;
+		}
+		.six21{
+			height: 50px;
+			width: 50px;
+			float: left;
+		}
+		.six3{
+			padding-left: 18px;
+			height: 50px;
+			width: 150px;
+			float: left;
+		}
+		.six4{
+			float: right;
+		}
+		.six5{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: left;
+			margin-left: 30px;
+		}
+		.six6{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: right;
+			padding-left: 20px;
+		}
+		.seven{
+			height: 260px;
+			background: #323232;
+			color: #ffffff;
+		}
+		.seven1{
+			width: 78px;
+			padding-top: 70px;
+			margin-left: 180px;
+			line-height: 32px;
+			float: left;
+		}
+		.seven2{
+			width: 78px;
+			padding-top: 70px;
+			margin-left: 100px;
+			line-height: 32px;
+			float: left;
+		}
+		.seven3{
+			width: 200px;
+			padding-top: 70px;
+			margin-left: 100px;
+			line-height: 30px;
+			float: left;
+		}
+		.seven4{
+			width: 22px;
+			float: right;
+		}
+		.seven5{
+			width: 2px;
+			margin-left: 35px;
+			float: left;
+			margin-top: 70px;
+		}
+		.seven6{
+			width: 210px;
+			float: left;
+			margin-left: 40px;
+			padding-top: 90px;
+			line-height: 40px;
+		}
+		.li2{
+			list-style-image: url(../kdemo/qq.png);
+			list-style-position : inside;
+		}
+		.li3{
+			list-style-image: url(../kdemo/19.png);
+			list-style-position : inside;
+		}
+		.eight{
+			height:127px;
+   			background: #323232;
+    		text-align: center;
+    		color: white;
+    		padding-top: 37px;
+		}
+		.eight ul{
+    		display: inline-block;
+		}
+		.eight li{
+    		float: left;
+    		font-size: 14px;
+    		padding: 0 10px;
+    		border-right: 2px solid white;
+		}
+		.eight li.last {
+    		border-right: 0;
+		}
+		.eight p{
+    		font-size: 14px;
+    		line-height: 60px;
+    		padding-bottom: 23px;
+		}

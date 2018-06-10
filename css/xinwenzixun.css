@@ -1,0 +1,259 @@
+*{
+	padding: 0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.one{
+	height: 173px;
+	background: #f3f3f3;
+}
+.logo{
+	height: 95px;
+	text-align: center;
+    padding-top: 30px;
+}
+.one1{
+	border-radius: 23px;
+	margin:0 auto;
+	background: #ffffff; 
+	height: 45px;
+	width: 670px;
+}
+.one1 li{
+	float:left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(../kdemo/20.png) no-repeat right center;
+}
+.one1 li a:hover{
+	border-bottom: 3px solid #1e50ae;
+	height: 42px;
+	display: block;
+}
+.one1 li:last-child{
+		background: none;
+}	
+.two{
+	height: 408px;
+	text-align: center;
+	background: url(../kdemo/2.png) no-repeat center;
+
+}
+.two1{
+	padding-top: 87px;
+}
+.three{
+	height: 1150px;
+	text-align: center;
+	padding-top: 42px;
+	line-height: 40px;
+}
+.three1{
+	width: 1205px;
+	height: 915px;
+	border: 1px dotted #aaaaaa;
+	margin: 20px auto
+}
+.three2{
+	height: 90px;
+	width: 1105px;
+	padding-top: 40px;
+	margin-left: 45px;
+	border: 1px #aaaaaa;
+	border-bottom-style:  dotted ;
+}
+.three2 p{
+	float: left;
+}
+.three3{
+	height: 90px;
+	width: 1105px;
+	padding-top: 40px;
+	margin-left: 45px;
+}
+.three3 p{
+	text-align: left;
+}
+.span{
+	float: left;
+}
+.three4{
+	width: 445px;
+	height: 40px;
+	margin: 40px auto;
+}
+.three5{
+	width: 33px;
+	height: 38px;
+	text-align: center;
+	border: 1px #a7a7a7 solid;
+	color: #a7a7a7;
+}
+.three6{
+	width: 33px;
+	height: 38px;
+	text-align: center;
+	border: 1px #a7a7a7 solid;
+	margin-left: 10px;
+}
+.three61{
+	width: 10px;
+	height: 38px;
+	color: #adadad;
+	margin-left: 5px;
+}
+.three4 li{
+	float: left;
+}
+.three4 ul li a:hover{
+	background: #0072ff;
+	color: white;
+	padding: 12px 12px 12px 12px;
+}
+.three7{
+	height: 38px;
+	width: 85px;
+	border: 1px  #a7a7a7 solid;
+	margin-left: 10px;
+}
+.three8{
+	width: 60px;	
+	height: 38px;	
+	border:1px #a7a7a7 solid;
+	margin-left: 10px;
+}
+		.six{
+			height: 100px;
+			background: #f5f5f5;
+			padding-top: 40px;
+		}
+		.six1{
+			width: 1120px;
+			height: 100px;
+			margin:0 auto;
+		}
+		.six2{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: left;
+		}
+		.six21{
+			height: 50px;
+			width: 50px;
+			float: left;
+		}
+		.six3{
+			padding-left: 18px;
+			height: 50px;
+			width: 150px;
+			float: left;
+		}
+		.six4{
+			float: right;
+		}
+		.six5{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: left;
+			margin-left: 30px;
+		}
+		.six6{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: right;
+			padding-left: 20px;
+		}
+.seven{
+			height: 260px;
+			background: #323232;
+			color: #ffffff;
+		}
+		.seven1{
+			width: 78px;
+			padding-top: 70px;
+			margin-left: 0;
+			line-height: 32px;
+			float: left;
+		}
+		.seven0{
+			width: 1200px;
+			height: 260px;
+			margin: 0 auto;
+		}
+		.seven2{
+			width: 78px;
+			padding-top: 70px;
+			margin-left: 100px;
+			line-height: 32px;
+			float: left;
+		}
+		.seven3{
+			width: 200px;
+			padding-top: 70px;
+			margin-left: 100px;
+			line-height: 30px;
+			float: left;
+		}
+		.seven4{
+			width: 22px;
+			float: right;
+		}
+		.seven5{
+			width: 2px;
+			margin-left: 35px;
+			float: left;
+			margin-top: 70px;
+		}
+		.seven6{
+			width: 210px;
+			float: left;
+			margin-left: 40px;
+			padding-top: 90px;
+			line-height: 40px;
+		}
+		.li2{
+			list-style-image: url(../kdemo/qq.png);
+			list-style-position : inside;
+		}
+		.li3{
+			list-style-image: url(../kdemo/19.png);
+			list-style-position : inside;
+		}
+		.eight{
+			height:127px;
+   			background: #323232;
+    		text-align: center;
+    		color: white;
+    		padding-top: 37px;
+		}
+		.eight1{
+			height: 123px;
+			width: 750px;;
+			margin: 0 auto;
+		}
+		.eight ul{
+    		display: inline-block;
+		}
+		.eight li{
+    		float: left;
+    		font-size: 14px;
+    		padding: 0 10px;
+    		border-right: 2px solid white;
+		}
+		.eight li.last {
+    		border-right: 0;
+		}
+		.eight p{
+    		font-size: 14px;
+    		line-height: 60px;
+    		padding-bottom: 23px;
+		}

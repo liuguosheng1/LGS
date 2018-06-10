@@ -1,0 +1,403 @@
+*{
+	padding: 0;
+	margin:0;
+}
+ul,li,ol{
+	list-style: none;
+}
+a{
+	text-decoration: none;
+}
+.one{
+	height: 173px;
+	background: #f3f3f3;
+}
+.logo{
+	height: 95px;
+	text-align: center;
+    padding-top: 30px;
+}
+.one1{
+	border-radius: 23px;
+	margin:0 auto;
+	background: #ffffff; 
+	height: 45px;
+	width: 670px;
+}
+.one1 li{
+	float:left;
+	height: 45px;
+	padding: 0 30px;
+	line-height: 45px;
+	background: url(../kdemo/20.png) no-repeat right center;
+}
+.one1 li a:hover{
+	border-bottom: 3px solid #1e50ae;
+	height: 42px;
+	display: block;
+}
+.one1 li:last-child{
+		background: none;
+}	
+.two{
+	height: 408px;
+	text-align: center;
+	background: url(../kdemo/2.png) no-repeat center;
+
+}
+.two1{
+	padding-top: 87px;
+}
+.three{
+	height: 640px;
+	text-align: center;
+	padding-top: 42px;
+	line-height: 40px;
+}
+.h{
+	font-size: 34px;
+	font-style: 'regular';
+	font-family: '微软雅黑';
+}
+.three1{
+	margin: 0 auto;
+	height: 565px;
+	width: 1200px;
+	text-align: center;
+}
+.three1 ul{
+	margin-left: 50px;
+}
+.three1 li{
+	float: left;
+	margin-right: 96px;
+}
+.three1 ul li a:hover{
+	background: #0072ff;
+	border-radius: 16px;
+	padding: 5px 10px 5px 10px;
+
+}
+.three1 img{
+	margin-right: 860px;
+	margin-top: 0;
+}
+.three2{
+	width: 1100px;
+	height: 45px;
+}
+.three1 li:last-child{
+	float: right;
+	margin-right: 0;
+}
+.three4{
+	width: 1200px;
+	height: 50px;
+	border:1px #aaaaaa;
+	border-top-style: dotted;
+}
+.three5{
+	width: 165px;
+	height: 50px;
+	border: 1px #aaaaaa;
+	border-right-style: dotted;
+}
+.three6{
+	width: 1100px;
+	height: 42px;
+	margin: 0 auto;
+}
+.three7{
+	width: 270px;
+	height: 23px;
+	margin-top: 12px;
+	margin-left: 110px;
+	background: url(../kdemo/changtiao.png) no-repeat center;
+	padding-top: 0;
+	float: left;
+}
+.three8{
+	width: 380px;
+	height: 36px;
+	text-align: center;
+	background: url(../kdemo/lantiao.png) no-repeat center;
+	margin-left: 0;
+	margin-top: 5px;
+	float: left;
+	line-height: 30px;
+}
+.three9{
+	width: 270px;
+	height: 23px;
+	margin-top: 12px;
+	margin-left: 0px;
+	background: url(../kdemo/changtiao.png) no-repeat center;
+	padding-top: 0;
+	float: left;
+}
+.three10{
+	width: 295px;
+	height: 205px;
+	background: #e9f3ff;
+	margin: 23px 0 0 148px;
+	text-align: center;
+	float: left;
+}
+.three11{
+	width: 295px;
+	height: 205px;
+	background: #e9f3ff;
+	margin: 23px 0 0 10px;
+	text-align: center;
+	float: left;
+}
+.three12{
+	width: 905px;
+	height: 45px;
+	text-align: center;
+	background: #f3f3f3;
+	margin: 280px 0 0 148px;
+	border-radius: 8px;
+}
+.three12 p{
+	color: #ff9147;
+	font: 18px;
+	font-family: '微软雅黑';
+}
+.three13{
+	width: 1030px;
+	height: 100px;
+	border: 1px #aaaaaa;
+	border-right-style: dotted;
+
+}
+.four{
+	height: 535px;
+	background: url(../kdemo/beijing.png) no-repeat center;
+}
+.four2{
+	font-size: 18px;
+	text-align: center;
+	color: #ffffff;
+}
+.four img{
+	margin-left: 1185px;
+}
+.four1{
+	width: 1189px;
+	height: 50px;
+	border: 1px #aaaaaa;
+	border-right-style: dotted;
+}
+.four3{
+	width: 1200px;
+	height: 270px;
+	margin: 0 auto;
+	line-height: 40px;
+}
+.four4{
+	width: 295px;
+	height: 205px;
+	background: #70669c;
+	margin: 23px 0 0 148px;
+	text-align: center;
+	float: left;
+}
+.four5{
+	width: 295px;
+	height: 205px;
+	background: #70669c;
+	margin: 23px 0 0 10px;
+	text-align: center;
+	float: left;
+}
+.four6{
+	width: 905px;
+	height: 45px;
+	text-align: center;
+	background: #8c97b9;
+	border-radius: 8px;
+	margin: 0 auto
+}
+.four6 p{
+	color: #fcff00;
+	font: 18px;
+	font-family: '微软雅黑';
+	line-height: 50px;
+
+}
+.four7{
+	width: 340px;
+	height: 110px;
+	border: 1px #aaaaaa;
+	border-right-style: dotted;
+}
+.five{
+	height: 480px;
+	background:#ffffff;
+}
+.five1{
+	width: 340px;
+	height: 50px;
+	border: 1px #aaaaaa;
+	border-right-style: dotted;
+}
+.five>img{
+	margin-left:335px;
+}
+.five2{
+	width: 905px;
+	height: 45px;
+	text-align: center;
+	background: #f3f3f3;
+	border-radius: 8px;
+	margin: 0 auto
+}
+.five p{
+	color: #ff9147;
+	font: 18px;
+	font-family: '微软雅黑';
+	line-height: 50px;
+
+}
+.five3{
+	width: 340px;
+	height: 90px;
+	border: 1px #aaaaaa;
+	border-right-style: dotted;
+}
+.five4{
+	background: url(../kdemo/xiaodian.png) no-repeat;
+	height: 15px;
+	margin-left:332px;
+	width: 15px;
+}
+		.six{
+			height: 100px;
+			background: #f5f5f5;
+			padding-top: 40px;
+		}
+		.six1{
+			width: 1120px;
+			height: 100px;
+			margin:0 auto;
+		}
+		.six2{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: left;
+		}
+		.six21{
+			height: 50px;
+			width: 50px;
+			float: left;
+		}
+		.six3{
+			padding-left: 18px;
+			height: 50px;
+			width: 150px;
+			float: left;
+		}
+		.six4{
+			float: right;
+		}
+		.six5{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: left;
+			margin-left: 30px;
+		}
+		.six6{
+			margin-top: 0px;
+			height: 50px;
+			width: 260px;
+			float: right;
+			padding-left: 20px;
+		}
+.seven{
+			height: 260px;
+			background: #323232;
+			color: #ffffff;
+		}
+		.seven1{
+			width: 78px;
+			padding-top: 70px;
+			margin-left: 0;
+			line-height: 32px;
+			float: left;
+		}
+		.seven0{
+			width: 1200px;
+			height: 260px;
+			margin: 0 auto;
+		}
+		.seven2{
+			width: 78px;
+			padding-top: 70px;
+			margin-left: 100px;
+			line-height: 32px;
+			float: left;
+		}
+		.seven3{
+			width: 200px;
+			padding-top: 70px;
+			margin-left: 100px;
+			line-height: 30px;
+			float: left;
+		}
+		.seven4{
+			width: 22px;
+			float: right;
+		}
+		.seven5{
+			width: 2px;
+			margin-left: 35px;
+			float: left;
+			margin-top: 70px;
+		}
+		.seven6{
+			width: 210px;
+			float: left;
+			margin-left: 40px;
+			padding-top: 90px;
+			line-height: 40px;
+		}
+		.li2{
+			list-style-image: url(../kdemo/qq.png);
+			list-style-position : inside;
+		}
+		.li3{
+			list-style-image: url(../kdemo/19.png);
+			list-style-position : inside;
+		}
+		.eight{
+			height:127px;
+   			background: #323232;
+    		text-align: center;
+    		color: white;
+    		padding-top: 37px;
+		}
+		.eight1{
+			height: 123px;
+			width: 750px;;
+			margin: 0 auto;
+		}
+		.eight ul{
+    		display: inline-block;
+		}
+		.eight li{
+    		float: left;
+    		font-size: 14px;
+    		padding: 0 10px;
+    		border-right: 2px solid white;
+		}
+		.eight li.last {
+    		border-right: 0;
+		}
+		.eight p{
+    		font-size: 14px;
+    		line-height: 60px;
+    		padding-bottom: 23px;
+		}
